@@ -1,9 +1,11 @@
 <h1 align="center">TƯ DUY TÍNH TOÁN</h1>
+
 ---
 
 <h2 align="center">Nguyễn Minh Đạo - 20522158 - Lớp COM1050 22</h2>
 
 ---
+
 Đây là repository để lưu bài tập môn `Tư Duy Tính Toán` .
 
 Thư mục `EXERCISE` lưu các bài tập ở trên lớp.
